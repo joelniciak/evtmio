@@ -6,25 +6,24 @@
                 <title>Campo di Fiori</title>
                 <author>Czesław Miłosz</author>
                 <editor role="editor">Joel Niciak</editor>
-                <sponsor>Me, myself and I</sponsor>
-                <principal xml:id="ja">Ja, wyżej podpisany</principal>
+                <sponsor>Alma Mater Studiorum Università di Bologna</sponsor>
+                <principal xml:id="relatore">prof. Andrea Ceccherelli</principal>
                 <respStmt>
-                    <resp>Prepared under the supervision of</resp>
-                    <name xml:id="me">Me</name>
+                    <resp>Preparato sotto la supervisione del</resp>
+                    <name xml:id="relatore">prof. Andrea Ceccherelli</name>
                 </respStmt>
-                <funder n="org:Tufts">My wallet (and patience)</funder>
+                <funder n="org:Tufts">Il progetto è stato finanziato interamente da chi scrive, al fine di poter essere inserito nella tesi di laurea in Letteratura Polacca per il Corso in Letterature Moderne, Comparate e Postcoloniali dell'Università di Bologna</funder>
             </titleStmt>
             <publicationStmt>
-                <publisher>Me again, surprisingly</publisher>
-                <pubPlace>Mensa Matellica</pubPlace>
-                <authority>Thesis project</authority>
+                <publisher>Joel Niciak</publisher>
+                <pubPlace>Bologna</pubPlace>
+                <authority>Progetto di tesi</authority>
                 <availability status="free">
-                    <p>This text may be freely distributed, subject to the following restrictions: 
+                    <p>Questo testo può essere distribuito liberamente, fatte salve le seguenti restrizioni: 
                         <list>
-                            <item>You credit Me, as follows, whenever you use the document: <quote>Text provided by that cool guy named Joel, with funding from his wallet. Original version available for viewing if u move your ass and look up the internet.</quote> </item>
-                            <item>You leave this availability statement intact.</item>
-                            <item>You use it for non-commercial purposes only.</item>
-                            <item>You offer Joel any coffee, pasta, or other meal you make.</item>
+                            <item>Il testo va attribuito al curatore, ogniqualvolta venga usato, nel modo che segue: C. Miłosz, <i>Campo di Fiori</i>, a cura di J. Niciak, Bologna, 2024. Testo accessibile al seguente <link href="criticaleditioncampodifiori.it">link</link>.</item>
+                            <item>La presente sezione deve rimanere integra ed essere pubblicata insieme al testo.</item>
+                            <item>Il testo può esssere utilizzato solo ed esclusivamente a fini non commerciali.</item>
                         </list> 
                     </p>
                 </availability>
