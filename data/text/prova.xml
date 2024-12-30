@@ -1,0 +1,238 @@
+<TEI xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns="http://www.tei-c.org/ns/1.0" xmlns:svg="http://www.w3.org/2000/svg">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Campo di Fiori</title>
+                <author>Czesław Miłosz</author>
+                <editor role="editor">Joel Niciak</editor>
+                <sponsor>Me, myself and I</sponsor>
+                <principal xml:id="ja">Ja, wyżej podpisany</principal>
+                <respStmt>
+                    <resp>Prepared under the supervision of</resp>
+                    <name xml:id="me">Me</name>
+                </respStmt>
+                <funder n="org:Tufts">My wallet (and patience)</funder>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Me again, surprisingly</publisher>
+                <pubPlace>Mensa Matellica</pubPlace>
+                <authority>Thesis project</authority>
+                <availability status="free">
+                    <p>This text may be freely distributed, subject to the following restrictions: 
+                        <list>
+                            <item>You credit Me, as follows, whenever you use the document: <quote>Text provided by that cool guy named Joel, with funding from his wallet. Original version available for viewing if u move your ass and look up the internet.</quote> </item>
+                            <item>You leave this availability statement intact.</item>
+                            <item>You use it for non-commercial purposes only.</item>
+                            <item>You offer Joel any coffee, pasta, or other meal you make.</item>
+                        </list> 
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl>
+                <refState unit="line"/>
+            </refsDecl>
+            <refsDecl>
+                <refState unit="scene" delim="."/>
+                <refState unit="line"/>
+            </refsDecl>
+            <variantEncoding method="parallel-segmentation" location="internal"/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="pl">Polish</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div>
+                <listWit>
+                    <witness xml:id="R" type="rękopis">
+                        <bibl><title>Ocalenie, draft, holograph and typescript, corrected</title>, w Czesław Miłosz Papers. General Collection, Box 83, folder 1117, 1945</bibl>
+                    </witness>
+                    <witness xml:id="ZO" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w tegoż "Z otchłani", wyd. ŻKN, s. 14-15, 1944</bibl>
+                    </witness>
+                    <witness xml:id="T" type="czasopismo">
+                        <bibl><title>Campo di Fiori</title>, w "Twórczości", nr 1, s. 49-50, 1945</bibl>
+                    </witness>
+                    <witness xml:id="O" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w "Twórczości", nr 1, s. 49-50, 1945</bibl>
+                    </witness>
+                    <witness xml:id="PUC" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w tegoż "Pieśń ujdzie ciało", Wydawnictwa Centralnej Żydowskiej Komisji Historycznej w Polsce, s. 121-122, 1947</bibl>
+                    </witness>
+                    <witness xml:id="OPW" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w tegoż "Wiersze", Oficyna Poetów i Malarzy Londyn, s. 89-91, 1967</bibl>
+                    </witness>
+                    <witness xml:id="CZP" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w tegoż "Poezje", Czytelnik, s. 74-76, 1981</bibl>
+                    </witness>
+                    <witness xml:id="WLW1" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w tegoż "Wiersze, t. 1", Wydawnictwo Literackie, s. 114-116, 1984</bibl>
+                    </witness>
+                    <witness xml:id="B" type="przedruk">
+                        <bibl><title>Campo di Fiori</title>, w J. Błoński, "Biedni Polacy patrzą na getto", wyd. 2, s. 24-26, 1996</bibl>
+                    </witness>
+                    <witness xml:id="ZW" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w tegoż "Wiersze, t. 1", Znak, s. 170-172, 1993</bibl>
+                    </witness>
+                    <witness xml:id="DZ" type="książka">
+                        <bibl><title>Campo di Fiori</title>, w "Dzieła zebrana. Wiersze, t. 1", Znak, s. 191-193, 2001</bibl>
+                    </witness>
+                </listWit>
+            </div> 
+        </front>
+        <body>
+            <head>Campo di Fiori</head>
+             <!-- ... -->
+             <div type="poem">
+                <!-- ... -->
+                <div type="stanza" n="1" sample="complete">
+                    <l>W Rzymie, na Campo di Fiori</l> 
+                    <l>Kosze oliwek i cytryn</l>
+                    <l>Bruk 
+                    <app>
+                    <lem wit="#ZO #PUC">opryskały</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">opryskany</rdg>
+                    </app> 
+                    winem</l>
+                    <l>I odłamkami kwiatów.</l>
+                    <l>Różowe owoce morza</l>
+                    <l>Sypią na stoły przekupnie</l>
+                    <l>Naręcza 
+                    <app>
+                    <lem wit="#ZO #PUC">ciężkich</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">ciemnych</rdg>
+                    </app> winogron</l>
+                    <l>
+                    <app>
+                    <lem wit="#ZO #PUC">Spadają</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">Padają</rdg>
+                    </app> na puch brzoskwini.</l>
+                </div>
+                
+                <div type="stanza" n="2" sample="complete">
+                    <l>Tu, na tym właśnie placu</l>
+                    <l>Spalono Giordana Bruna</l>
+                    <l>Kat płomień stosu zażegnął</l> 
+                    <l>W kole ciekawej gawiedzi</l>
+                    <l>A ledwo płomień przygasnął</l>
+                    <l>Znów pełne były tawerny</l>
+                    <l>Kosze oliwek i cytryn</l>
+                    <l>Nieśli przekupnie na głowach.</l>
+                </div>
+
+                <div type="stanza" n="3" sample="complete">
+                    <l>Wspomniałem Campo di Fiori</l>
+                    <l>W Warszawie, przy karuzeli</l>
+                    <l>W <app><lem wit="#ZO #PUC">wiosenny</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">pogodny</rdg></app> wieczór <app><lem wit="#ZO #PUC">pogodny</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">wiosenny</rdg></app></l>
+                    <l>Przy dźwiękach skocznej muzyki.</l>
+                    <l>Salwy za murem ghetta</l>
+                    <l>Głuszyła skoczna melodia</l>
+                    <l>I wzlatywały pary</l>
+                    <l>Wysoko w pogodne niebo.</l> 
+                </div>
+
+                <div type="stanza" n="4" sample="complete">
+                    <l>Czasem wiatr z domów płonących</l> 
+                    <l>
+                    <app>
+                    <lem wit="#ZO #PUC">Przywiewał</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">Przynosił</rdg>
+                    </app> czarne latawce</l>
+                    <l>
+                    <app>
+                    <lem wit="#ZO #PUC">Chwytali</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">Łapali</rdg>
+                    </app>
+                    <app>
+                    <lem wit="#ZO #PUC #B #DZ">skrawki</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #ZW">płatki</rdg>
+                    </app> w powietrzu</l>
+                    <l>Jadący na karuzeli</l>
+                    <l>Rozwiewał suknie dziewczynom</l>
+                    <l>
+                    <app>
+                    <lem wit="#ZO #PUC #B"></lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #ZW #DZ">Ten</rdg></app> Wiatr od 
+                    <app>
+                    <lem wit="#ZO #PUC #B">tych</lem>
+                    <rdg wit="#R #T #O #OPW #CZP #WLW1 #ZW #DZ"></rdg>
+                    </app> domów płonących</l>
+                    <l>Śmiały się tłumy wesołe</l>
+                    <l>W czas pięknej warszawskiej niedzieli.</l>
+                </div>
+
+                <div type="stanza" n="5" sample="complete">
+                    <l>Morał ktoś może wyczyta</l>
+                    <l>Że lud warszawski czy rzymski</l> 
+                    <l>Handluje, bawi się, kocha</l>
+                    <l>Mijając męczeńskie stosy.</l>
+                    <l>Inny ktoś 
+                    <app>
+                    <lem wit="#ZO">może</lem>
+                    <rdg wit="#PUC #R #T #O #OPW #CZP #WLW1 #B #ZW #DZ"></rdg>
+                    </app> morał 
+                    <app>
+                    <lem wit="#ZO #R #T #O #OPW #CZP #WLW1 #B #ZW #DZ">wyczyta</lem>
+                    <rdg wit="#PUC">odczyta</rdg>
+                    </app>
+                    </l>
+                    <l>O rzeczy ludzkich mijaniu</l>
+                    <l>O zapomnieniu co rośnie</l>
+                    <l>Nim jeszcze płomień przygasnął.</l>
+                </div>
+
+                <div type="stanza" n="6" sample="complete">
+                    <l>Ja jednak wtedy myślałem</l>
+                    <l>O samotności ginących</l>
+                    <l>O tem, że kiedy Giordano</l>
+                    <l>Wstępował na rusztowanie</l>
+                    <l>Nie 
+                    <app>
+                    <lem wit="#ZO #PUC #B">było</lem>
+                    <rdg wit ="#R" style="text-decoration:line-through">było</rdg><rdg wit ="#R">znalazł</rdg>
+                    <rdg wit="#T #O #OPW #CZP #WLW1 #ZW #DZ">znalazł</rdg>
+                    </app> w ludzkim języku</l>
+                    <l>Ani jednego wyrazu</l>
+                    <l>Aby coś zdołał powiedzieć</l>
+                    <l>Ludzkości, która zostaje.</l>
+                </div>
+
+                <div type="stanza" n="7" sample="complete">
+                    <l>Już biegli wychylać wino</l>
+                    <l>Sprzedawać białe rozgwiazdy</l>
+                    <l>Kosze oliwek i cytryn</l>
+                    <l>Nieśli w wesołym gwarze.</l>
+                    <l>I był już od nich odległy</l>
+                    <l>Jakby minęli wieki</l>
+                    <l>A oni czekali chwilę</l>
+                    <l>Na jego odlot w pożarze.</l>
+                </div>
+
+                <div type="stanza" n="8" sample="complete">
+                    <l>A ci, ginący, samotni,</l>
+                    <l>Już zapomnieni od świata</l>
+                    <l>Język nasz stał się im obcy</l>
+                    <l>Jak język dawnej planety.</l>
+                    <l>I wszystko będzie legendą</l>
+                    <l>A wtedy, po wielu latach</l>
+                    <l>Na wielkiem Campo di Fiori</l>
+                    <l>Bunt wznieci słowo poety.</l>
+                </div>
+            </div1>
+        </body>
+</document>
+<?xml
