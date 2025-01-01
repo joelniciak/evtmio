@@ -94,7 +94,7 @@
         <body>
             <head>Campo di Fiori</head>
              <!-- ... -->
-             <div type="poem">
+             <div type="poem" n="1">
                 <!-- ... -->
                 <div type="stanza" n="1" sample="complete">
                     <l>W Rzymie, na Campo di Fiori</l> 
