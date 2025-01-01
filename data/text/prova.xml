@@ -53,7 +53,7 @@
     </teiHeader>
     <text>
         <front>
-            <div type="listWit">
+            <div type="poem" n="1">
                 <listWit>
                     <witness xml:id="R" type="rękopis">
                         <bibl><title>Ocalenie, draft, holograph and typescript, corrected</title>, w Czesław Miłosz Papers. General Collection, Box 83, folder 1117, 1945</bibl>
