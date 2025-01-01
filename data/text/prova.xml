@@ -53,7 +53,7 @@
     </teiHeader>
     <text>
         <front>
-            <div type="poem" n="">
+            <div type="Critica" n=" ">
                 <listWit>
                     <witness xml:id="R" type="rękopis">
                         <bibl><title>Ocalenie, draft, holograph and typescript, corrected</title>, w Czesław Miłosz Papers. General Collection, Box 83, folder 1117, 1945</bibl>
@@ -94,7 +94,7 @@
         <body>
             <head>Campo di Fiori</head>
              <!-- ... -->
-             <div type="poem" n="">
+             <div type="Critica" n=" ">
                 <!-- ... -->
                 <div type="stanza" n="1" sample="complete">
                     <l>W Rzymie, na Campo di Fiori</l> 
