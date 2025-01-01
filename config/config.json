@@ -13,7 +13,7 @@
     "visCollTextUrl": "",
     "visCollStyleUrl": "",
     "visCollSvg": "data/viscoll/SVG/",
-    "visCollImageList": "data/viscoll/CDF-imagelist.xml",
+    "visCollImageList": "data/viscoll/CDF-imageList.xml",
     "visCollDataModel": "data/viscoll/CDF-dataModel.xml",
 
     "defaultViewMode": "readingTxt",
