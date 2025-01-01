@@ -133,6 +133,7 @@
                 </div>
                  
                 <div type="stanza" n="3" sample="complete">
+                    <pb n="60" xml:id="R-60" facs="data/images/single/CDF-60.jpg"/>
                     <l>Wspomniałem Campo di Fiori</l>
                     <l>W Warszawie, przy karuzeli</l>
                     <l>W <app><lem wit="#ZO #PUC">wiosenny</lem>
@@ -176,6 +177,7 @@
                 </div>
 
                 <div type="stanza" n="5" sample="complete">
+                    <pb n="61" xml:id="R-61" facs="data/images/single/CDF-61.jpg"/>
                     <l>Morał ktoś może wyczyta</l>
                     <l>Że lud warszawski czy rzymski</l> 
                     <l>Handluje, bawi się, kocha</l>
@@ -212,6 +214,7 @@
                 </div>
 
                 <div type="stanza" n="7" sample="complete">
+                    <pb n="62" xml:id="R-62" facs="data/images/single/CDF-62.jpg"/>
                     <l>Już biegli wychylać wino</l>
                     <l>Sprzedawać białe rozgwiazdy</l>
                     <l>Kosze oliwek i cytryn</l>
