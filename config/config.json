@@ -8,13 +8,13 @@
     "analoguesUrl": "data/text/analogues.xml",
     "sourcesTextsUrl": "data/text/sources/",
     "singleImagesUrl": "data/images/single",
-    "enableXMLdownload": true,
+    "enableXMLdownload": false,
     
     "visCollTextUrl": "",
     "visCollStyleUrl": "",
-    "visCollSvg": "",
-    "visCollImageList": "",
-    "visCollDataModel": "",
+    "visCollSvg": "data/viscoll/SVG/",
+    "visCollImageList": "data/viscoll/CDF-imagelist.xml",
+    "visCollDataModel": "data/viscoll/CDF-dataModel.xml",
 
     "defaultViewMode": "readingTxt",
     "availableViewModes": [
