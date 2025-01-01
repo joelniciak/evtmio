@@ -44,8 +44,8 @@
         </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="pl">Polish</language>
-                <language ident="it">Italian</language>
+                <language ident="pl">Polacco</language>
+                <language ident="it">Italiano</language>
             </langUsage>
         </profileDesc>
         <revisionDesc>
@@ -53,7 +53,7 @@
     </teiHeader>
     <text>
         <front>
-            <div>
+            <div type="listWit">
                 <listWit>
                     <witness xml:id="R" type="rękopis">
                         <bibl><title>Ocalenie, draft, holograph and typescript, corrected</title>, w Czesław Miłosz Papers. General Collection, Box 83, folder 1117, 1945</bibl>
