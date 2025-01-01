@@ -16,7 +16,7 @@
     "visCollImageList": "data/viscoll/CDF-imageList.xml",
     "visCollDataModel": "data/viscoll/CDF-dataModel.xml",
 
-    "defaultViewMode": "readingTxt",
+    "defaultViewMode": "imgTxt",
     "availableViewModes": [
         {
             "label": "READING_TEXT",
