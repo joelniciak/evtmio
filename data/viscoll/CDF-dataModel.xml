@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../text/schema/viscoll-datamodel2.0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<viscoll xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns="http://schoenberginstitute.org/schema/collation">
+<textblock>
+<url/>
+<title>Campo di Fiori</title>
+<shelfmark>R</shelfmark>
+<direction val="l-r"/>
+
+<quires>
+<quire xml:id="R-q-59" n="1">59</quire>
+<quire xml:id="R-q-60" n="2">60</quire>
+<quire xml:id="R-q-61" n="3">61</quire>
+<quire xml:id="R-q-62" n="4">62</quire>
+</quires>
+<leaf xml:id="VB-1-1">
+	<folioNumber certainty="1" val="1">1</folioNumber>
+	<mode certainty="1" val="original"/>
+	<q target="#VB-q-1" leafno="1" position="1" n="1">
+		<conjoin certainty="1" target="#VB-1-10"/>
+   </q>
+</leaf>
+<leaf xml:id="VB-14-1"><folioNumber certainty="1" val="99">99</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-14" leafno="1" position="1" n="14"><conjoin certainty="1" target="#VB-14-8"/></q></leaf>
+<leaf xml:id="VB-14-2"><folioNumber certainty="1" val="100">100</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-14" leafno="2" position="2" n="14"><conjoin certainty="1" target="#VB-14-7"/></q></leaf>
+<leaf xml:id="VB-14-3"><mode certainty="1" val="missing"/><q target="#VB-q-14" leafno="3" position="3" n="14"><conjoin certainty="1" target="#VB-14-6"/></q></leaf>
+<leaf xml:id="VB-14-4"><folioNumber certainty="1" val="101">101</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-14" leafno="4" position="4" n="14"><conjoin certainty="1" target="#VB-14-5"/></q></leaf>
+<leaf xml:id="VB-14-5"><folioNumber certainty="1" val="102">102</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-14" leafno="5" position="5" n="14"><conjoin certainty="1" target="#VB-14-4"/></q></leaf>
+<leaf xml:id="VB-14-6"><folioNumber certainty="1" val="103">103</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-14" leafno="6" position="6" n="14"><conjoin certainty="1" target="#VB-14-3"/></q></leaf>
+<leaf xml:id="VB-14-7"><mode certainty="1" val="missing"/><q target="#VB-q-14" leafno="7" position="7" n="14"><conjoin certainty="1" target="#VB-14-2"/></q></leaf>
+<leaf xml:id="VB-14-8"><folioNumber certainty="1" val="104">104</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-14" leafno="8" position="8" n="14"><conjoin certainty="1" target="#VB-14-1"/></q></leaf>
+
+<leaf xml:id="VB-15-1"><folioNumber certainty="1" val="105">105</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-15" leafno="1" position="1" n="15"><conjoin certainty="1" target="#VB-15-8"/></q></leaf>
+<leaf xml:id="VB-15-2"><folioNumber certainty="1" val="106">106</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-15" leafno="2" position="2" n="15"><conjoin certainty="1" target="#VB-15-7"/></q></leaf>
+<leaf xml:id="VB-15-3"><folioNumber certainty="1" val="107">107</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-15" leafno="3" position="3" n="15"><conjoin certainty="1" target="#VB-15-6"/></q></leaf>
+<leaf xml:id="VB-15-4"><folioNumber certainty="1" val="108">108</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-15" leafno="4" position="4" n="15"><conjoin certainty="1" target="#VB-15-5"/></q></leaf>
+<leaf xml:id="VB-15-5"><folioNumber certainty="1" val="109">109</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-15" leafno="5" position="5" n="15"><conjoin certainty="1" target="#VB-15-4"/></q></leaf>
+<leaf xml:id="VB-15-6"><mode certainty="1" val="missing"/><q target="#VB-q-15" leafno="6" position="6" n="15"><conjoin certainty="1" target="#VB-15-3"/></q></leaf>
+<leaf xml:id="VB-15-7"><folioNumber certainty="1" val="110">110</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-15" leafno="7" position="7" n="15"><conjoin certainty="1" target="#VB-15-2"/></q></leaf>
+<leaf xml:id="VB-15-8"><folioNumber certainty="1" val="111">111</folioNumber><mode certainty="1" val="original"/><q target="#VB-q-15" leafno="8" position="8" n="15"><conjoin certainty="1" target="#VB-15-1"/></q></leaf>
+
+</textblock>
+</viscoll>
