@@ -97,6 +97,7 @@
              <div type="Critica" n=" ">
                 <!-- ... -->
                 <div type="stanza" n="1" sample="complete">
+                    <pb n="59" xml:id="R-59" facs="data/images/single/CDF-59.jpg"/>
                     <l>W Rzymie, na Campo di Fiori</l> 
                     <l>Kosze oliwek i cytryn</l>
                     <l>Bruk 
@@ -130,7 +131,7 @@
                     <l>Kosze oliwek i cytryn</l>
                     <l>Nieśli przekupnie na głowach.</l>
                 </div>
-
+                 
                 <div type="stanza" n="3" sample="complete">
                     <l>Wspomniałem Campo di Fiori</l>
                     <l>W Warszawie, przy karuzeli</l>
