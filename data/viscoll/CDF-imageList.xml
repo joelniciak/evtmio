@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
 <imageList>
     <imagerv>
-        <image val="59v" url="data/images/single/VB_fol_104v.jpg" id="VB-14-8-v">104v</image>
-        <image val="60r" url="data/images/single/VB_fol_105r.jpg" id="VB-15-1-r">105r</image>
+        <image val="59" url="data/images/single/CDF-59.jpg" id="VB-14-8-v">104v</image>        
     </imagerv>
     <imagerv>
-        
-        <image val="60v" url="data/images/single/VB_fol_105v.jpg" id="VB-15-1-v">105v</image>
+        <image val="60" url="data/images/single/CDF-60.jpg" id="VB-15-1-r">105r</image>
     </imagerv>
     <imagerv>
-        <image val="106r" url="data/images/single/VB_fol_106r.jpg" id="VB-15-2-r">106r</image>
+        <image val="61" url="data/images/single/CDF-61.jpg" id="VB-15-1-v">105v</image>
+    </imagerv>
+    <imagerv>
+        <image val="62" url="data/images/single/CDF-62.jpg" id="VB-15-2-r">106r</image>
     </imagerv>
 </imageList>
