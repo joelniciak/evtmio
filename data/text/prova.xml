@@ -205,18 +205,24 @@
                     <l>Nie 
                     <app>
                     <lem wit="#ZO #PUC #B">było</lem>
-                    <rdg wit ="#R"><del>było</del></rdg><rdg wit ="#R">znalazł</rdg>
+                    <rdg wit ="#R"><del>było</del> znalazł</rdg>
                     <rdg wit="#T #O #OPW #CZP #WLW1 #ZW #DZ">znalazł</rdg>
                     </app> w ludzkim języku</l>
                     <l>Ani jednego wyrazu</l>
                     <l>
                     <app>
-                    <lem>Aby coś zdołał powiedzieć</lem>
+                    <lem wit="#ZO #PUC">Aby coś zdołał powiedzieć</lem>
                     <rdg wit="#B">Żeby coś zdołał powiedzieć</rdg>
-                    <rdg>Którym</rdg>
-                    <rdg></rdg>
+                    <rdg wit="#R"><del>Którym</del> <del>Aby go mógł zostawić</del> <del>I nic nie mógł powiedzieć</del>Aby nim ludzkość pożegnać</rdg>
+                    <rdg wit="#T #O #OPW #CZP #WLW1 #ZW #DZ">Aby nim ludzkość pożegnać</rdg>
                     </app></l>
-                    <l>Ludzkości, która zostaje.</l>
+                    <l>
+                    <app>
+                    <lem>Ludzkości, która zostaje.</lem>
+                    <rdg></rdg>
+                    <rdg></rdg>
+                    </app>
+                    </l>
                 </div>
 
                 <div type="stanza" n="7" sample="complete">
