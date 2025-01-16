@@ -205,7 +205,7 @@
                     <l>Nie 
                     <app>
                     <lem wit="#ZO #PUC #B">było</lem>
-                    <rdg wit ="#R" style="text-decoration:line-through">było</rdg><rdg wit ="#R">znalazł</rdg>
+                    <rdg wit ="#R"><del>było</del></rdg><rdg wit ="#R">znalazł</rdg>
                     <rdg wit="#T #O #OPW #CZP #WLW1 #ZW #DZ">znalazł</rdg>
                     </app> w ludzkim języku</l>
                     <l>Ani jednego wyrazu</l>
