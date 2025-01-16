@@ -218,11 +218,11 @@
                     </app></l>
                     <l>
                     <app>
-                    <lem>Ludzkości, która zostaje.</lem>
-                    <rdg></rdg>
-                    <rdg></rdg>
+                    <lem wit="#ZO #PUC #B">Ludzkości</lem>
+                    <rdg wit="#R">Tę [dopisane na marginesie] ludzkość<del>i</del></rdg>
+                    <rdg wit="#T #O #OPW #CZP #WLW1 #ZW #DZ">Tę ludzkość</rdg>
                     </app>
-                    </l>
+                    , która zostaje</l>
                 </div>
 
                 <div type="stanza" n="7" sample="complete">
@@ -232,20 +232,77 @@
                     <l>Kosze oliwek i cytryn</l>
                     <l>Nieśli w wesołym gwarze.</l>
                     <l>I był już od nich odległy</l>
-                    <l>Jakby minęli wieki</l>
-                    <l>A oni czekali chwilę</l>
+                    <l>Jakby 
+                    <app>
+                    <lem wit="#ZO #PUC">minęli</lem>
+                    <rdg wit="#R #B #T #O #OPW #CZP #WLW1 #ZW #DZ">minęły</rdg>
+                    </app>
+                    wieki</l>
+                    <l>A oni 
+                    <app>
+                    <lem wit="#ZO #PUC">czekali chwilę</lem>
+                    <rdg wit="#R #B #T #O #OPW #CZP #WLW1 #ZW #DZ">chwilę czekali</rdg>
+                    </app>
+                    </l>
                     <l>Na jego odlot w pożarze.</l>
                 </div>
 
                 <div type="stanza" n="8" sample="complete">
-                    <l>A ci, ginący, samotni,</l>
+                    <l>
+                    <app>
+                    <lem wit="#ZO #PUC">A ci, ginący, samotni,</lem>
+                    <rdg wit="#OPW">I ci, ginący, samotni,</rdg>
+                    <rdg wit="#R #B #T #O #CZP #WLW1 #ZW #DZ">I ci ginący, samotni,</rdg>
+                    </app>
+                    </l>
                     <l>Już zapomnieni od świata</l>
-                    <l>Język nasz stał się im obcy</l>
+                    <l>Język 
+                    <app>
+                    <lem wit="#R #T #O #OPW #CZP">ich</lem> 
+                    <rdg wit="#ZO #PUC #B #WLW1 #ZW #DZ">nasz</rdg>
+                    </app>
+                    stał się 
+                    <app>
+                    <lem wit="#R #T #O #OPW #CZP">nam</lem>
+                    <rdg wit="#ZO #PUC #B #WLW1 #ZW #DZ">im</rdg>
+                    </app>
+                    obcy</l>
                     <l>Jak język dawnej planety.</l>
-                    <l>I wszystko będzie legendą</l>
-                    <l>A wtedy, po wielu latach</l>
-                    <l>Na wielkiem Campo di Fiori</l>
+                    <l>
+                    <app>
+                    <lem wit="#ZO #PUC">I</lem> 
+                    <rdg wit="#R #OPW #B #T #O #CZP #WLW1 #ZW #DZ">Aż</rdg>
+                    </app>
+                    wszystko będzie legendą</l>
+                    <l>
+                    <app>
+                    <lem wit="#ZO #PUC">A</lem>
+                    <rdg wit="#R #OPW #B #T #O #CZP #WLW1 #ZW #DZ">I</rdg>
+                    </app>
+                    wtedy
+                    <app>
+                    <lem wit="#ZO #PUC #R #T">,</lem>
+                    <rdg wit="#OPW #B #O #CZP #WLW1 #ZW #DZ"></rdg>
+                    </app>
+                    po wielu latach</l>
+                    <l>Na 
+                    <app>
+                    <lem wit="#ZO #PUC #B">wielkim</lem>
+                    <rdg wit="#R #T #OPW #O #CZP #WLW1 #ZW #DZ">nowym</rdg>
+                    </app>
+                    Campo di Fiori</l>
                     <l>Bunt wznieci słowo poety.</l>
+                </div>
+                <div type="datowanie" n="1" sample="complete">
+                    <l>
+                    <app>
+                    <lem wit="#B #WLW1 #ZW #DZ">Warszawa - Wielkanoc, 1943</lem>
+                    <rdg wit="#R #PUC #ZO"></rdg>
+                    <rdg wit="#O">1943</rdg>
+                    <rdg wit="#T">Wielkanoc, 1943</rdg>
+                    <rdg wit="#OPW">1943, Warszawa</rdg>
+                    <rdg wit="#CZP">Warszawa, 1943</rdg>
+                    </l>
                 </div>
             </div1>
         </body>
