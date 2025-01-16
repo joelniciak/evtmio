@@ -209,7 +209,13 @@
                     <rdg wit="#T #O #OPW #CZP #WLW1 #ZW #DZ">znalazł</rdg>
                     </app> w ludzkim języku</l>
                     <l>Ani jednego wyrazu</l>
-                    <l>Aby coś zdołał powiedzieć</l>
+                    <l>
+                    <app>
+                    <lem>Aby coś zdołał powiedzieć</lem>
+                    <rdg wit="#B">Żeby coś zdołał powiedzieć</rdg>
+                    <rdg>Którym</rdg>
+                    <rdg></rdg>
+                    </app></l>
                     <l>Ludzkości, która zostaje.</l>
                 </div>
 
