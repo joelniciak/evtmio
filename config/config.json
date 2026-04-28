@@ -85,7 +85,7 @@
         }
     ],
     
-    "showDocumentSelector": false,
+    "showDocumentSelector": true,
     "enableNavBar": false,
     "initNavBarOpened": false,
     "thumbnailsButton": false,
